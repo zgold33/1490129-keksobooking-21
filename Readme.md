@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Сергей Золотухин](https://up.htmlacademy.ru/javascript/21/user/1490129).
-* Наставник: `Неизвестно`.
+* Наставник: [Никита Сигов].
 
 ---
 
